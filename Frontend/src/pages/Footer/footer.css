@@ -1,0 +1,29 @@
+.app-footer {
+  background: #020301;
+  padding: .5rem 2rem;
+  text-align: right;
+  position: absolute;
+  bottom:0;
+  right: 0;
+  width: 100vw;
+}
+.social {
+  text-decoration: none;
+  color: #fff;
+  padding: 10px;
+  font-size: 25px;
+}
+.app-footer__message {
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+}
+
+.app-footer__date {
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  display: flex;
+  justify-content:  center;
+  margin-bottom: -35px;
+}
