@@ -1,9 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/App - Backend/node_modules
-/App - Frontend/node_modules
-/App - Frontend/__tests__
+/Backend/node_modules
+/Frontend/node_modules
+/Frontend/__tests__
 
 
 # testing
